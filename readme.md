@@ -9,7 +9,7 @@ Given two points connected by a line segmet , a point P in the line segment is r
 We call it linear interpolation or lerp in short 
 
 $$
-⁍
+P = (1-t)P_0 + tP_1
 $$
 
 ![Screenshot 2022-07-22 at 11.27.41 PM.png](Bezier%20curves%20737c575eb4d944679a5a79770136247b/Screenshot_2022-07-22_at_11.27.41_PM.png)
