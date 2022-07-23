@@ -1,3 +1,9 @@
+# Introduction
+This project is an introductory look into the math of Bezier curve's with an aim to create a N degree Bezier curve tool using C++ (SDL2) . Some useful resources to follow will be
+- [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw&t=1200s)
+- [The Math Behind Font Rasterization | How it Works](https://www.youtube.com/watch?v=LaYPoMPRSlk)
+- [Coding Bézier Curves — Day 1](https://www.youtube.com/watch?v=2oKzBq43ShE)
+
 # Bezier curves
 
 Created: July 22, 2022 11:24 PM
